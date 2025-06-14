@@ -1,0 +1,2 @@
+here is an example on how java scripts are written where (cucumber\src\main\resources\features\F01_login.feature) is the script
+and (cucumber\src\test\java\step_definition\D01_login.java) is the functions
