@@ -1,1 +1,0 @@
-{"uuid":"d16c4508-585c-48cd-9891-7c7235bd7c9e","name":"video22.dataprovider.before","children":["22c2624c-90ed-41ad-820c-a96fc5c870da"],"description":"","befores":[{"name":"before","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1748116556770,"stop":1748116564594}],"afters":[],"start":1748116556770,"stop":1748116564594}
